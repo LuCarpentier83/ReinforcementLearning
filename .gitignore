@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# TensorBoard logs
+logs/
+my_logs/
+events.out.tfevents.*
+
+# IDE / OS
+.idea/
+.vscode/
+*~
+.DS_Store
+Thumbs.db
